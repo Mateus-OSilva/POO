@@ -44,3 +44,7 @@ class Conta:
     @limite.setter
     def limite(self, limite):
         self.__limite = limite
+
+    @property
+    def codigo_banco():
+        return "001"
