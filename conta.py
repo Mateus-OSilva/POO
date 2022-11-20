@@ -52,3 +52,4 @@ class Conta:
     @staticmethod
     def codigos_banco():
         return {'BB':'001', 'Caixa':'104', 'Bradesco':'237'}
+    
